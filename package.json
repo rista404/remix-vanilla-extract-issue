@@ -1,6 +1,7 @@
 {
   "private": true,
   "sideEffects": false,
+  "name": "remix-vanilla-test",
   "scripts": {
     "build": "remix build",
     "dev:remix": "remix watch",
